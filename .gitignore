@@ -1,0 +1,5 @@
+# Python virtual environment
+.venv/
+
+# Visual Studio Code settings and workspace
+.vscode/
